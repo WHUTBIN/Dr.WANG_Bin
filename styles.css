@@ -23,7 +23,7 @@ header nav ul li {
 }
 
 header nav ul li a {
-    color: #ffffff;       /* 链接文字为白色 */
+    
     text-decoration: none;/* 去除链接下划线 */
 }
 
