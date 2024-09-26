@@ -21,3 +21,16 @@ nav a {
 nav a:hover {
     text-decoration: underline; /* 鼠标悬停时显示下划线 */
 }
+
+section {
+    padding: 20px;
+    margin-bottom: 20px;
+    background-color: #f8f8f8; /* 轻微灰色背景增加区分 */
+}
+
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+}
