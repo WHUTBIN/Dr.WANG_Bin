@@ -1,6 +1,10 @@
-# 联系方式
+<h1 style="font-size: 24px; font-family: Arial, sans-serif;">联系方式</h1>
 
-- 电子邮箱（EMAIL）: wang_bin@whut.edu.cn
-- 电话(TEL): +86 15172330028
-- 办公地址(ADDRESS): [湖北省武汉市武昌区和平大道1178号航运大楼（东侧）4004]
--                    No.1178, Heping Ave., Wuchang Dist.,Wuhan, Hubei Prov., 430063, P. R. China
+<ul style="font-size: 18px; font-family: 'Times New Roman', serif;">
+    <li> 电子邮箱（EMAIL）: <a href="mailto:wang_bin@whut.edu.cn" style="color: blue;">wang_bin@whut.edu.cn</a></li>
+    <li> 电话(TEL): +86 15172330028</li>
+    <li> 办公地址(ADDRESS): 
+        <p>湖北省武汉市武昌区和平大道1178号航运大楼（东侧）4004<br>
+        No.1178, Heping Ave., Wuchang Dist., Wuhan, Hubei Prov., 430063, P. R. China</p>
+    </li>
+</ul>
