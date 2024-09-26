@@ -9,7 +9,7 @@ body {
 header {
     background: #0095b3;
     color: #ffffff;
-    padding: 10px 20px;
+    padding: 20px 30px;
     text-align: center;
 }
 
@@ -20,6 +20,7 @@ header nav ul {
 header nav ul li {
     display: inline;
     margin-right: 10px;
+    color: white; /* 链接文字为白色 */
 }
 
 section {
