@@ -43,3 +43,14 @@ footer {
     background: #333;     /* 深灰色背景 */
     color: #ffffff;       /* 白色文字 */
 }
+
+.container {
+    width: 80%;               /* 容器宽度，根据需要调整 */
+    margin: 0 auto;           /* 上下边距0，左右自动，这将使容器水平居中 */
+    text-align: left;         /* 文本左对齐 */
+    padding: 20px;            /* 内边距，根据需要调整 */
+}
+
+h1, h2 {
+    text-align: center;       /* 如果需要标题居中可以单独设置 */
+}
