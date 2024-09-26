@@ -7,31 +7,39 @@ body {
 }
 
 header {
-    background: #0051b3;
-    color: #ffffff;
-    padding: 20px 30px;
-    text-align: center;
+    background: #0051b3;  /* 深蓝色背景 */
+    color: #ffffff;       /* 白色文字 */
+    padding: 20px 30px;   /* 顶部和底部20px，左右30px的内边距 */
+    text-align: center;   /* 文本居中 */
 }
 
 header nav ul {
-    list-style: none;
+    list-style: none;     /* 去除列表项目前的默认标记 */
 }
 
 header nav ul li {
-    display: inline;
-    margin-right: 10px;
-    color: white; /* 链接文字为白色 */
+    display: inline;      /* 列表项内联显示，使其水平排列 */
+    margin-right: 10px;   /* 列表项之间的右边距为10px */
+}
+
+header nav ul li a {
+    color: #ffffff;       /* 链接文字为白色 */
+    text-decoration: none;/* 去除链接下划线 */
+}
+
+header nav ul li a:hover {
+    text-decoration: underline; /* 鼠标悬停时添加下划线 */
 }
 
 section {
-    margin: 20px;
-    padding: 20px;
-    background: #ffffff;
+    margin: 20px;         /* 区域外边距为20px */
+    padding: 20px;        /* 区域内边距为20px */
+    background: #ffffff;  /* 白色背景 */
 }
 
 footer {
-    text-align: center;
-    padding: 10px 0;
-    background: #333;
-    color: #ffffff;
+    text-align: center;   /* 文本居中 */
+    padding: 10px 0;      /* 顶部和底部10px内边距，无左右内边距 */
+    background: #333;     /* 深灰色背景 */
+    color: #ffffff;       /* 白色文字 */
 }
