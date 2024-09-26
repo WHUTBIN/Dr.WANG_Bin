@@ -8,7 +8,7 @@ body {
 
 header {
     background: #0051b3;  /* 深蓝色背景 */
-    color: #CD5C5C;       /* 白色文字 */
+    color: #ffffff;       /* 白色文字 */
     padding: 20px 30px;   /* 顶部和底部20px，左右30px的内边距 */
     text-align: center;   /* 文本居中 */
 }
